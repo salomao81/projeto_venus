@@ -1,0 +1,26 @@
+main{
+    background-color: rgb(228, 225, 225);
+    max-width: 1066px;
+    min-width: 300px;
+    min-height: 1000px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 5px;
+}
+#vitrine{
+    padding: 5px;
+}
+.container-produto{
+    min-width: 250px;
+    display: inline-flex;
+    height: 400px;
+    background-color: white;
+    padding: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.container-produto picture img{
+    width: 240px;
+    height: 300px;
+}

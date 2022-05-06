@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(40, 40, 182);
+    max-width: 100%;
+    min-width: 300px;
+    height: 35px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
+#nav-menu{
+    
+    position: relative;
+    display: flex;
+}
+#menu{
+    margin: auto;
+    list-style: none;
+}
+
+#menu li{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu li a{
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#menu li a:hover{
+    color: rgb(120, 255, 57);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-decoration: none;
+}
